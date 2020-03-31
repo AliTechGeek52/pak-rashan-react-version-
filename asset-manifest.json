@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pak-rashan-react-version-/static/css/main.865f445e.chunk.css",
+    "main.js": "/pak-rashan-react-version-/static/js/main.35931710.chunk.js",
+    "main.js.map": "/pak-rashan-react-version-/static/js/main.35931710.chunk.js.map",
+    "runtime-main.js": "/pak-rashan-react-version-/static/js/runtime-main.e3f3c185.js",
+    "runtime-main.js.map": "/pak-rashan-react-version-/static/js/runtime-main.e3f3c185.js.map",
+    "static/js/2.4b0bffa4.chunk.js": "/pak-rashan-react-version-/static/js/2.4b0bffa4.chunk.js",
+    "static/js/2.4b0bffa4.chunk.js.map": "/pak-rashan-react-version-/static/js/2.4b0bffa4.chunk.js.map",
+    "index.html": "/pak-rashan-react-version-/index.html",
+    "precache-manifest.6f5dd895f899c4161f68c9e3edceb64b.js": "/pak-rashan-react-version-/precache-manifest.6f5dd895f899c4161f68c9e3edceb64b.js",
+    "service-worker.js": "/pak-rashan-react-version-/service-worker.js",
+    "static/css/main.865f445e.chunk.css.map": "/pak-rashan-react-version-/static/css/main.865f445e.chunk.css.map",
+    "static/js/2.4b0bffa4.chunk.js.LICENSE.txt": "/pak-rashan-react-version-/static/js/2.4b0bffa4.chunk.js.LICENSE.txt",
+    "static/media/banner.jpg": "/pak-rashan-react-version-/static/media/banner.e9f2008a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3f3c185.js",
+    "static/js/2.4b0bffa4.chunk.js",
+    "static/css/main.865f445e.chunk.css",
+    "static/js/main.35931710.chunk.js"
+  ]
+}
